@@ -1,0 +1,28 @@
+.margin_T
+{
+    margin-top: 10px;
+}
+
+.margin_B
+{
+    margin-bottom: 30px;
+}
+
+.der
+{
+   display: flex;
+   justify-content: flex-end;
+}
+
+.blanquita
+{
+    font-weight: 700;
+    text-align: center;
+    
+}
+
+.negrita
+{
+    font-weight: bold;
+    text-align: center;
+}
